@@ -5,3 +5,4 @@ pyvenv
 db.sqlite3
 /static
 .DS_Store
+python_intro
